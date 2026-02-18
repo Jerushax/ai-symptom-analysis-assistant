@@ -244,7 +244,7 @@ headache, dizziness, chest pain, loss of balance, lack of concentration
 3.
 
 ```
-hexcessive hunger, increased appetite, weight loss, fatigue, blurred vision
+excessive hunger, increased appetite, weight loss, fatigue, blurred vision
 ```
 
 4.
