@@ -309,6 +309,11 @@ Response:
 * Real medical API integration
 
 ---
+## Screenshots
+![Dashboard](dashboard.png)
+![Analysis](1.png)
+![](2.png)
+![](3.png)
 
 # License
 
